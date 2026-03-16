@@ -1,0 +1,9 @@
+{
+  "DID": "did:fairy:ghana:12345",
+  "Role": "Forest Guardian / Mother",
+  "VerifiedClaims": {
+    "SlaveFreeLabor": "True",
+    "DirectPaymentEnabled": "True",
+    "ChildrenInSchool": "True"
+  }
+}
